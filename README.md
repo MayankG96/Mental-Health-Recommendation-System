@@ -1,4 +1,5 @@
 **Project Summary**
+
 The project was centered around the use of Natural Language Processing techniques for gaining insights into the realm of mental health. 
 Alarming statistics from the WHO revealed that 1 in every 8 people worldwide grapples with a mental disorder, often lacking access to effective care. 
 The project aimed to shed light on the experiences of individuals dealing with common disorders through topic modeling and then help others facing a similar situation 
